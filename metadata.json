@@ -1,0 +1,15 @@
+{
+  "name": "puppet-ssh",
+  "version": "0.1.0",
+  "author": "Ahmad H Bardolia",
+  "summary": "This is test module for ssh",
+  "license": "Apache2",
+  "source": "git@github.com:ahmadbardolia/puppet-ssh.git",
+  "project_page": "anywhere",
+  "issues_url": "nop",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
